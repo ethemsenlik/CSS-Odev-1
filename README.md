@@ -1,2 +1,2 @@
 # CSS-Odev-1
-www.patika.dev
+https://app.patika.dev/july
